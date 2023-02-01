@@ -1,12 +1,7 @@
-# 3th-Weblayout
-
-
-
-
-# RUBBER-layout-08.2022
-08.2022--HTML-CSS-(second project).
-Second weblayout with using (HTML, CSS, Bootstrap).                                                                                                   
-Tools for this project:
+# 3th-Weblayout-09.2022.
+# 09.2022--HTML-CSS-(3th project).
+3th weblayout with using (HTML, CSS).                                                                                                   
+#Tools for this project:
                  ---*Bootstrap(responsive layout tool).
                  ---*Figma.                                      ---*flex-box.   
                  ---*validator(https://validator.w3.org/).       ---*pseudo Class&Elements. 
